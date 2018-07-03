@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="breed" table="x_94322_fetch_dogs" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>breed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Labrador</label>
+            <language>en</language>
+            <name>x_94322_fetch_dogs</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-03 02:20:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7824cb39db0313007547ddd0cf9619c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-03 02:20:52</sys_updated_on>
+            <value>labrador</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>breed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>German Shepherd</label>
+            <language>en</language>
+            <name>x_94322_fetch_dogs</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-03 02:23:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>63f407f5db0313007547ddd0cf961989</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-03 02:23:24</sys_updated_on>
+            <value>german shepherd</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>breed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mix</label>
+            <language>en</language>
+            <name>x_94322_fetch_dogs</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-03 02:24:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>25354379db0313007547ddd0cf961978</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-03 02:24:22</sys_updated_on>
+            <value>mix</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>breed</element>
+            <name>x_94322_fetch_dogs</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-03 02:20:52</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>6a644f39db0313007547ddd0cf961993</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>breed</sys_name>
+            <sys_package display_value="Fetch" source="x_94322_fetch">c160cf71db0313007547ddd0cf961946</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Fetch">c160cf71db0313007547ddd0cf961946</sys_scope>
+            <sys_update_name>sys_choice_x_94322_fetch_dogs_breed</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-03 02:24:22</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
